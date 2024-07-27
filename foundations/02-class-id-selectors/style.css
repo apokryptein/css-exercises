@@ -1,0 +1,20 @@
+.odd {
+  background-color: #ff000080;
+  font-family: Verdana, "DejaVu Sant", sans-serif;
+}
+
+#n2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.n3 {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+#n4 {
+  background-color: #00ff0080;
+  font-size: 24px;
+  font-weight: bold;
+}
